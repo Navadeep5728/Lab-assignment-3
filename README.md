@@ -2,15 +2,15 @@
 # INTRODUCTION
 Hi!
 My name is Pavuluri Navadeep. 
-I am from vijayawada which is in Andhra Pradesh.
+I am from vijayawada,Andhra Pradesh.
 My college was KVR Jr college.
 My hobbies are watching movies,listning songs and playing chess.
-I have interest in learning new things including programming etc.
-I am also interested in robotic clubs.
+I am interseted in traveling to new places and make new friends.
+I have interset on robotics.
 # GIT
 The thing I love about git is the flexibility.
 I love how we can engage with others and modify code for more efficiency.
 # python assignment
-the python assignment i loves the most was class asssignment 2
+The python assignment I loved the most was class asssignment-2
 
 
